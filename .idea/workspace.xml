@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aee21a9c-6def-4bf0-b7c9-925249c6d81e" name="Default Changelist" comment="1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DataStructure/Heap.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1xn8NujcK9oDmoRw26xmjAJWVn1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\数据结构与算法" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StackTest">
+    <configuration name="分治法求最大子序列和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="分治法求最大子序列和" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.StackTest" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.review" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.sortTest" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.review" />
+        <item itemvalue="Application.分治法求最大子序列和" />
+        <item itemvalue="Application.one" />
+        <item itemvalue="Application.sortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee21a9c-6def-4bf0-b7c9-925249c6d81e" name="Default Changelist" comment="" />
+      <created>1630979454299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630979454299</updated>
+      <workItem from="1630979457911" duration="2925000" />
+      <workItem from="1630995164366" duration="3068000" />
+      <workItem from="1631000360696" duration="775000" />
+      <workItem from="1631001284800" duration="365000" />
+      <workItem from="1631007187413" duration="9125000" />
+      <workItem from="1631069247904" duration="14605000" />
+      <workItem from="1631156394082" duration="384000" />
+      <workItem from="1631156936314" duration="82000" />
+      <workItem from="1631157028791" duration="1423000" />
+      <workItem from="1631160464652" duration="22000" />
+      <workItem from="1631160560494" duration="829000" />
+      <workItem from="1631163423318" duration="43000" />
+      <workItem from="1631163477288" duration="58000" />
+      <workItem from="1631163545424" duration="299000" />
+      <workItem from="1631163878705" duration="38000" />
+      <workItem from="1631164074018" duration="33000" />
+      <workItem from="1631164233488" duration="18000" />
+      <workItem from="1631164261620" duration="16000" />
+      <workItem from="1631164409394" duration="163000" />
+      <workItem from="1631166282609" duration="20000" />
+      <workItem from="1631166321701" duration="26000" />
+      <workItem from="1631166370947" duration="28000" />
+      <workItem from="1631166423174" duration="208000" />
+      <workItem from="1631166770204" duration="144000" />
+      <workItem from="1631166949400" duration="25000" />
+      <workItem from="1631166987033" duration="106000" />
+      <workItem from="1631167117273" duration="28000" />
+      <workItem from="1631167173852" duration="15000" />
+      <workItem from="1631192735181" duration="124000" />
+      <workItem from="1631192876885" duration="7308000" />
+      <workItem from="1631235408202" duration="26000" />
+      <workItem from="1631235453619" duration="6518000" />
+      <workItem from="1631270926392" duration="9301000" />
+      <workItem from="1631280358973" duration="108000" />
+      <workItem from="1631341047121" duration="279000" />
+      <workItem from="1631341474789" duration="12494000" />
+      <workItem from="1631623443393" duration="6668000" />
+      <workItem from="1631680341957" duration="637000" />
+      <workItem from="1631699036362" duration="678000" />
+      <workItem from="1631705271337" duration="1215000" />
+      <workItem from="1631707532472" duration="109000" />
+      <workItem from="1632062221674" duration="48000" />
+      <workItem from="1632062288092" duration="2999000" />
+      <workItem from="1632103180282" duration="4008000" />
+      <workItem from="1632138234663" duration="2581000" />
+      <workItem from="1632194020694" duration="12214000" />
+      <workItem from="1632401810229" duration="5876000" />
+      <workItem from="1632443810018" duration="886000" />
+      <workItem from="1632445889774" duration="1701000" />
+      <workItem from="1632473900952" duration="142000" />
+      <workItem from="1632474073323" duration="138000" />
+      <workItem from="1632474233545" duration="73000" />
+      <workItem from="1632474319858" duration="58000" />
+      <workItem from="1632474390542" duration="90000" />
+      <workItem from="1632474497712" duration="261000" />
+      <workItem from="1632474775829" duration="78000" />
+      <workItem from="1632474872718" duration="91000" />
+      <workItem from="1632474974547" duration="105000" />
+      <workItem from="1632475092736" duration="35000" />
+      <workItem from="1632475149512" duration="418000" />
+      <workItem from="1632475778730" duration="42000" />
+      <workItem from="1632475966785" duration="17000" />
+      <workItem from="1632476002200" duration="7000" />
+      <workItem from="1632484979294" duration="19000" />
+      <workItem from="1632531207250" duration="447000" />
+      <workItem from="1632533785036" duration="59000" />
+      <workItem from="1632533860308" duration="21000" />
+      <workItem from="1632581774162" duration="2283000" />
+      <workItem from="1632615097287" duration="71000" />
+      <workItem from="1632615193481" duration="5140000" />
+      <workItem from="1632668902187" duration="92000" />
+      <workItem from="1632700632595" duration="558000" />
+      <workItem from="1632794572357" duration="4128000" />
+      <workItem from="1632877932562" duration="595000" />
+      <workItem from="1632892037494" duration="1995000" />
+      <workItem from="1633014419384" duration="47000" />
+      <workItem from="1633531794650" duration="1997000" />
+      <workItem from="1633603349607" duration="1252000" />
+      <workItem from="1633604630241" duration="46000" />
+      <workItem from="1633607124417" duration="15000" />
+      <workItem from="1633696031229" duration="272000" />
+      <workItem from="1634363572374" duration="41000" />
+      <workItem from="1634363629421" duration="3000" />
+      <workItem from="1634379662017" duration="238000" />
+      <workItem from="1634995589680" duration="86000" />
+      <workItem from="1636729686887" duration="47000" />
+      <workItem from="1636729816946" duration="727000" />
+      <workItem from="1649345548627" duration="495000" />
+      <workItem from="1649396520943" duration="678000" />
+      <workItem from="1649397230659" duration="7000" />
+      <workItem from="1649405051600" duration="220000" />
+      <workItem from="1649405627395" duration="908000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1649345632281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649345632282</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1649345876920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649345876920</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1649405118828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649405118828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
